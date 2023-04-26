@@ -9,7 +9,7 @@ public class AtmApp {
         System.out.println("Javayi ogrenmek cok kolay:");
         //version4
         System.out.println("merve branchi kodlarini yazdi.");
-        //merve1
+        //mrv1
 
 
 
