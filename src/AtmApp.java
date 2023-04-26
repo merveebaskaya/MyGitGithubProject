@@ -12,6 +12,10 @@ public class AtmApp {
         //mrv1
         System.out.println("");
         //mrv3
+        System.out.println();
+        if (true){
+            System.out.println();
+        }
 
 
 
